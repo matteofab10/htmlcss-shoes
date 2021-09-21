@@ -58,9 +58,7 @@ a:hover {
   width: 60%;
   margin: 0 auto;
   font-size: 3vw;
-  color: #fffd00;
 }
-
 
 .btn1 {
   background-color: #f80204;
@@ -70,12 +68,19 @@ a:hover {
   background-color: #208000
 }
 
-.btn3, #btn3 {
+.btn3 {
   background-color: #fffd00;
-  color: green;
 }
 
 img {
   display: block;
   width: 100%;
+}
+
+.txt-yellow {
+  color: #fffd00;
+}
+
+.txt-green {
+  color: green;
 }
